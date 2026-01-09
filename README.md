@@ -1,1 +1,1 @@
-# EcoTrack-HackIT1
+# AI-ML-Project
